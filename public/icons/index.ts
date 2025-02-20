@@ -1,0 +1,15 @@
+export {default as UserIcon } from "./user-icon";
+export {default as MenuIcon } from "./menu-icon";
+export {default as GiftIcon } from "./gift-icon";
+export {default as GermanFlagIcon } from "./german-flag-icon";
+export {default as ArrowDownIcon} from "./arrow-down-icon";
+export {default as ArrowRightIcon } from "./arrow-right-icon";
+export {default as PhoneIcon } from "./phone-icon";
+export {default as JobIcon } from "./job-icon";
+export {default as LocationIcon } from "./location-icon";
+export {default as EditIcon } from "./edit-icon";
+export {default as ArrowInbox } from "./arrow-inbox";
+export {default as TelegramIcon } from "./telegram-icon";
+export {default as MessengerIcon } from "./messenger-icon";
+export {default as WhatsappIcon } from "./whatsapp-icon";
+export {default as EmailIcon } from "./email-icon";
